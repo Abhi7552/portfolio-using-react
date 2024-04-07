@@ -14,23 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        Over the past few years, I’ve immersed myself in various tech stacks, honing my skills and gaining practical experience.In first year of college journey, I came to know about a coding platform named coding ninjas and took MERN full stack web development course.  
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          As a teaching assistant, I’ve had the privilege of guiding fellow students through their web development journey. For 3 months, I’ve facilitated code debugging, answered questions, and shared insights on the same tech stack I’ve grown to love. It’s incredibly rewarding to witness their satisfaction moments and see their projects come to life.
         </p>
       </div>
     </div>

@@ -15,8 +15,7 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have three months experience as teaching assistant of Html, CSS and Javascript.
-            Currently, I'm a 2nd year Bsc. hons(Computer Science) student in Delhi University and I love to work on web application using technologies like
+            Hello, I'm Abhishek Kumar a 2nd year Bsc. hons(Computer Science) student in Delhi University. I love to work on web application using technologies like
             React, Tailwind,MongoDB.
           </p>
 
