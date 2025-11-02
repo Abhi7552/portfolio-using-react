@@ -38,7 +38,9 @@ export default function WorkExperience() {
 
             <div className="z-20 text-center max-w-4xl -translate-y-1">
                 <h1 className="m-0 text-3xl md:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-white to-white/70 bg-clip-text text-transparent">Work Experience</h1>
-                <p className="mt-2 text-sm text-slate-300">A concise history of roles — crafted interactions, thoughtful UI, and measurable results.</p>
+                <p className="mt-2 text-sm text-slate-300">
+                    A concise history of roles — crafted interactions, thoughtful UI, and measurable results.
+                </p>
             </div>
 
             <div className="z-20 w-full max-w-6xl grid gap-6 sm:grid-cols-2 lg:grid-cols-3">

@@ -15,14 +15,14 @@ const Portfolio = () => {
     {
       id: 2,
       src: todolist,
-      codeLink: "https://github.com/Abhi7552/To_Do_List",
-      liveLink: "https://abhi7552.github.io/To_Do_List/",
+      codeLink: "https://github.com/Abhi7552/dtc-bus-pass",
+      liveLink: "https://dtc-clone.netlify.app/",
     },
     {
       id: 3,
       src: dtcClone,
-      codeLink: "https://github.com/Abhi7552/dtc-bus-pass",
-      liveLink: "https://dtc-clone.netlify.app/",
+      codeLink: "https://github.com/Abhi7552/To_Do_List",
+      liveLink: "https://abhi7552.github.io/To_Do_List/",
     },
   ];
 

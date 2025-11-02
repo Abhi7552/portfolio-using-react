@@ -1,6 +1,5 @@
 import React from "react";
 import AnimatedSection from "./AnimatedSection";
-import { motion } from "framer-motion";
 
 const About = () => {
   return (
