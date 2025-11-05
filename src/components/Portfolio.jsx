@@ -47,13 +47,13 @@ const Portfolio = () => {
   return (
     <div
       name="portfolio"
-      className="relative bg-gradient-to-b from-black to-gray-800 w-full text-white min-h-screen py-20"
+      className="relative bg-gradient-to-b from-black to-gray-800 w-full text-white min-h-screen py-16 md:py-20"
     >
       {/* Background accent */}
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(67,56,202,0.08),transparent_50%)] pointer-events-none" />
       
-      <div className="max-w-screen-xl p-6 lg:p-8 mx-auto flex flex-col justify-center w-full h-full">
-        <div className="pb-12 mt-16">
+      <div className="max-w-screen-xl px-4 sm:px-6 lg:px-8 mx-auto flex flex-col justify-center w-full h-full">
+        <div className="pb-8 md:pb-12 text-center">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -62,7 +62,7 @@ const Portfolio = () => {
             <h2 className="text-4xl font-bold inline-block bg-gradient-to-r from-white via-blue-100 to-white bg-clip-text text-transparent pb-2">
               Portfolio
             </h2>
-            <div className="h-1 w-24 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full mt-2" />
+            <div className="h-1 w-24 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full mt-2 mx-auto" />
             <p className="py-6 text-gray-400 text-lg">Check out some of my work on web technologies here</p>
           </motion.div>
         </div>

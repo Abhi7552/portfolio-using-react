@@ -6,6 +6,7 @@ import WorkExperience from "./components/workExperience";
 import Home from "./components/Home";
 import Portfolio from "./components/Portfolio";
 import SocialLinks from "./components/SocialLinks";
+import SocialLinksHorizontal from "./components/SocialLinksHorizontal";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
     <WorkExperience/>
     <Contact/>
     <SocialLinks/>
+    <SocialLinksHorizontal/>
     </>
   );
 }
