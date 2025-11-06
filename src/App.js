@@ -1,5 +1,6 @@
 import NavBar from "./components/Navbar";
 import About from "./components/About";
+import Education from "./components/Education";
 import Contact from "./components/Contact";
 import Technologies from "./components/Technology";
 import WorkExperience from "./components/workExperience";
@@ -13,11 +14,12 @@ function App() {
     <>
     <NavBar/>
     <div className="h-20" />
-    <Home/>
-    <About/>
-    <Technologies/>
-    <Portfolio/>
-    <WorkExperience/>
+  <Home/>
+  <About/>
+  <Education/>
+  <Technologies/>
+  <Portfolio/>
+  <WorkExperience/>
     <Contact/>
     <SocialLinks/>
     <SocialLinksHorizontal/>

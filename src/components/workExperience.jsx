@@ -41,7 +41,7 @@ export default function WorkExperience() {
                 </h2>
                 <div className="h-1 w-32 mx-auto bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full mt-2" />
                 <p className="mt-4 text-base sm:text-lg text-gray-400">
-                    A concise history of roles — crafted interactions, thoughtful UI, and measurable results.
+                    A concise history of roles — internships and positions
                 </p>
             </div>
 
