@@ -1,29 +1,29 @@
 import React from "react";
 import { motion } from "framer-motion";
 import guessNumber from "../assets/portfolio/guessNumber.png"
-import todolist from "../assets/portfolio/dtc.png";
-import dtcClone from "../assets/portfolio/todo.png";
+import expenseTracker from "../assets/portfolio/expenseTracker.png";
+import dtcClone from "../assets/portfolio/dtc.png";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: guessNumber,
-      codeLink: "https://github.com/Abhi7552/GuessTheNumber",
-      liveLink: "https://abhiguessthenumber.netlify.app/",
+      src: expenseTracker,
+      codeLink: "https://github.com/Abhi7552/SplitEase-A-Expense-tracker-app",
+      liveLink: "https://splitease-a-expense-tracker-app.onrender.com/",
     },
     {
       id: 2,
-      src: todolist,
+      src: dtcClone,
       codeLink: "https://github.com/Abhi7552/dtc-bus-pass",
       liveLink: "https://dtc-clone.netlify.app/",
     },
     {
       id: 3,
-      src: dtcClone,
-      codeLink: "https://github.com/Abhi7552/To_Do_List",
-      liveLink: "https://abhi7552.github.io/To_Do_List/",
-    },
+      src: guessNumber,
+      codeLink: "https://github.com/Abhi7552/GuessTheNumber",
+      liveLink: "https://abhiguessthenumber.netlify.app/",
+    }
   ];
 
   const container = {
